@@ -1,5 +1,5 @@
 {
-    "name": "julio101290/mythauth",
+    "name": "julio101290/auth",
     "description": "Flexible authentication/authorization system for CodeIgniter 4.",
     "license": "MIT",
     "type": "library",
