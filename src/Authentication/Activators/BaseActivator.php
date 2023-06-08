@@ -1,9 +1,9 @@
 <?php
 
-namespace Myth\Auth\Authentication\Activators;
+namespace julio101290\Auth\Authentication\Activators;
 
-use Myth\Auth\Config\Auth as AuthConfig;
-use Myth\Auth\Entities\User;
+use julio101290\Auth\Config\Auth as AuthConfig;
+use julio101290\Auth\Entities\User;
 
 abstract class BaseActivator
 {
