@@ -1,9 +1,9 @@
 <?php
 
-namespace Myth\Auth\Authentication\Resetters;
+namespace julio101290\Auth\Authentication\Resetters;
 
 use Config\Email;
-use Myth\Auth\Entities\User;
+use julio101290\Auth\Entities\User;
 
 /**
  * Class EmailResetter

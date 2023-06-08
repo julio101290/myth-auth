@@ -1,6 +1,6 @@
 <?php
 
-namespace Myth\Auth\Config;
+namespace julio101290\Auth\Config;
 
 /**
  * Helper class that will register our bulk plugins

@@ -1,10 +1,10 @@
 <?php
 
-namespace Myth\Auth\Commands;
+namespace julio101290\Auth\Commands;
 
 use CodeIgniter\CLI\BaseCommand;
 use CodeIgniter\CLI\CLI;
-use Myth\Auth\Entities\User;
+use julio101290\Auth\Entities\User;
 
 class HashPassword extends BaseCommand
 {

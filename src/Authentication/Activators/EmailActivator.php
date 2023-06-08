@@ -1,9 +1,9 @@
 <?php
 
-namespace Myth\Auth\Authentication\Activators;
+namespace julio101290\Auth\Authentication\Activators;
 
 use Config\Email;
-use Myth\Auth\Entities\User;
+use julio101290\Auth\Entities\User;
 
 /**
  * Class EmailActivator

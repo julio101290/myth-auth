@@ -1,8 +1,8 @@
 <?php
 
-namespace Myth\Auth\Authentication\Passwords;
+namespace julio101290\Auth\Authentication\Passwords;
 
-use Myth\Auth\Entities\User;
+use julio101290\Auth\Entities\User;
 
 /**
  * Class ValidationRules

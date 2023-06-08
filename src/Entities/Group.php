@@ -1,6 +1,6 @@
 <?php
 
-namespace Myth\Auth\Entities;
+namespace julio101290\Auth\Entities;
 
 use CodeIgniter\Entity\Entity;
 

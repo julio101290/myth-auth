@@ -1,6 +1,6 @@
 <?php
 
-namespace Myth\Auth\Exceptions;
+namespace julio101290\Auth\Exceptions;
 
 use CodeIgniter\HTTP\Exceptions\HTTPException;
 use DomainException;

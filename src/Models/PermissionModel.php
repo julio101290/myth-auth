@@ -1,10 +1,10 @@
 <?php
 
-namespace Myth\Auth\Models;
+namespace julio101920\Auth\Models;
 
 use CodeIgniter\Model;
 use Faker\Generator;
-use Myth\Auth\Entities\Permission;
+use julio101920\Auth\Entities\Permission;
 
 class PermissionModel extends Model
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace Myth\Auth\Authentication\Passwords;
+namespace julio101290\Auth\Authentication\Passwords;
 
-use Myth\Auth\Config\Auth as AuthConfig;
+use julio101290\Auth\Config\Auth as AuthConfig;
 
 abstract class BaseValidator
 {

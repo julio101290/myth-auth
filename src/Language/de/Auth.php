@@ -1,6 +1,6 @@
 <?php
 
-namespace Myth\Auth\Language\de;
+namespace julio101920\Auth\Language\de;
 
 return [
 

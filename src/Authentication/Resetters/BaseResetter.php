@@ -1,9 +1,9 @@
 <?php
 
-namespace Myth\Auth\Authentication\Resetters;
+namespace julio101290\Auth\Authentication\Resetters;
 
-use Myth\Auth\Config\Auth as AuthConfig;
-use Myth\Auth\Entities\User;
+use julio101290\Auth\Config\Auth as AuthConfig;
+use julio101290\Auth\Entities\User;
 
 abstract class BaseResetter
 {

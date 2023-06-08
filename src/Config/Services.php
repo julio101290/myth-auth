@@ -1,20 +1,20 @@
 <?php
 
-namespace Myth\Auth\Config;
+namespace julio101290\Auth\Config;
 
 use CodeIgniter\Model;
 use Config\Services as BaseService;
-use Myth\Auth\Authentication\Activators\ActivatorInterface;
-use Myth\Auth\Authentication\Activators\UserActivator;
-use Myth\Auth\Authentication\Passwords\PasswordValidator;
-use Myth\Auth\Authentication\Resetters\EmailResetter;
-use Myth\Auth\Authentication\Resetters\ResetterInterface;
-use Myth\Auth\Authorization\FlatAuthorization;
-use Myth\Auth\Authorization\GroupModel;
-use Myth\Auth\Authorization\PermissionModel;
-use Myth\Auth\Config\Auth as AuthConfig;
-use Myth\Auth\Models\LoginModel;
-use Myth\Auth\Models\UserModel;
+use julio101290\Auth\Authentication\Activators\ActivatorInterface;
+use julio101290\Auth\Authentication\Activators\UserActivator;
+use julio101290\Auth\Authentication\Passwords\PasswordValidator;
+use julio101290\Auth\Authentication\Resetters\EmailResetter;
+use julio101290\Auth\Authentication\Resetters\ResetterInterface;
+use julio101290\Auth\Authorization\FlatAuthorization;
+use julio101290\Auth\Authorization\GroupModel;
+use julio101290\Auth\Authorization\PermissionModel;
+use julio101290\Auth\Config\Auth as AuthConfig;
+use julio101290\Auth\Models\LoginModel;
+use julio101290\Auth\Models\UserModel;
 
 class Services extends BaseService
 {

@@ -1,13 +1,13 @@
 <?php
 
-namespace Myth\Auth\Entities;
+namespace julio101290\Auth\Entities;
 
 use CodeIgniter\Entity\Entity;
 use CodeIgniter\I18n\Time;
 use Exception;
-use Myth\Auth\Authorization\GroupModel;
-use Myth\Auth\Authorization\PermissionModel;
-use Myth\Auth\Password;
+use julio101290\Auth\Authorization\GroupModel;
+use julio101290\Auth\Authorization\PermissionModel;
+use julio101290\Auth\Password;
 use RuntimeException;
 
 /**

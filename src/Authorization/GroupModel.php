@@ -1,8 +1,8 @@
 <?php
 
-namespace Myth\Auth\Authorization;
+namespace julio101290\Auth\Authorization;
 
-use Myth\Auth\Models\GroupModel as BaseModel;
+use julio101290\Auth\Models\GroupModel as BaseModel;
 
 /**
  * @deprecated 1.2.0 Use Myth\Auth\Models\GroupModel instead
