@@ -63,7 +63,7 @@ class Auth extends BaseConfig
      * @var array
      */
     public $authenticationLibs = [
-        'local' => 'Myth\Auth\Authentication\LocalAuthenticator',
+        'local' => 'julio101290\Auth\Authentication\LocalAuthenticator',
     ];
 
     /**
@@ -74,12 +74,12 @@ class Auth extends BaseConfig
      * @var array
      */
     public $views = [
-        'login'           => 'Myth\Auth\Views\login',
-        'register'        => 'Myth\Auth\Views\register',
-        'forgot'          => 'Myth\Auth\Views\forgot',
-        'reset'           => 'Myth\Auth\Views\reset',
-        'emailForgot'     => 'Myth\Auth\Views\emails\forgot',
-        'emailActivation' => 'Myth\Auth\Views\emails\activation',
+        'login'           => 'julio101290\Auth\Views\login',
+        'register'        => 'julio101290\Auth\Views\register',
+        'forgot'          => 'julio101290\Auth\Views\forgot',
+        'reset'           => 'julio101290\Auth\Views\reset',
+        'emailForgot'     => 'julio101290\Auth\Views\emails\forgot',
+        'emailActivation' => 'julio101290\Auth\Views\emails\activation',
     ];
 
     /**
@@ -89,7 +89,7 @@ class Auth extends BaseConfig
      *
      * @var string
      */
-    public $viewLayout = 'Myth\Auth\Views\layout';
+    public $viewLayout = 'julio101290\Auth\Views\layout';
 
     /**
      * --------------------------------------------------------------------
@@ -186,7 +186,7 @@ class Auth extends BaseConfig
      *
      * @var string|null Name of the ActivatorInterface class
      */
-    public $requireActivation = 'Myth\Auth\Authentication\Activators\EmailActivator';
+    public $requireActivation = 'julio101290\Auth\Authentication\Activators\EmailActivator';
 
     /**
      * --------------------------------------------------------------------
@@ -198,7 +198,7 @@ class Auth extends BaseConfig
      *
      * @var string|null Name of the ResetterInterface class
      */
-    public $activeResetter = 'Myth\Auth\Authentication\Resetters\EmailResetter';
+    public $activeResetter = 'julio101290\Auth\Authentication\Resetters\EmailResetter';
 
     /**
      * --------------------------------------------------------------------
@@ -330,9 +330,9 @@ class Auth extends BaseConfig
      * @var string[]
      */
     public $passwordValidators = [
-        'Myth\Auth\Authentication\Passwords\CompositionValidator',
-        'Myth\Auth\Authentication\Passwords\NothingPersonalValidator',
-        'Myth\Auth\Authentication\Passwords\DictionaryValidator',
+        'julio101290\Auth\Authentication\Passwords\CompositionValidator',
+        'julio101290\Auth\Authentication\Passwords\NothingPersonalValidator',
+        'julio101290\Auth\Authentication\Passwords\DictionaryValidator',
         // 'Myth\Auth\Authentication\Passwords\PwnedValidator',
     ];
 
@@ -346,7 +346,7 @@ class Auth extends BaseConfig
      * @var array
      */
     public $userActivators = [
-        'Myth\Auth\Authentication\Activators\EmailActivator' => [
+        'julio101290\Auth\Authentication\Activators\EmailActivator' => [
             'fromEmail' => null,
             'fromName'  => null,
         ],
@@ -362,7 +362,7 @@ class Auth extends BaseConfig
      * @var array
      */
     public $userResetters = [
-        'Myth\Auth\Authentication\Resetters\EmailResetter' => [
+        'julio101290\Auth\Authentication\Resetters\EmailResetter' => [
             'fromEmail' => null,
             'fromName'  => null,
         ],

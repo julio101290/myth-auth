@@ -1,6 +1,6 @@
 <?php
 
-namespace Myth\Auth;
+namespace julio101290\Auth;
 
 use CodeIgniter\Router\Exceptions\RedirectException;
 
