@@ -1,6 +1,6 @@
 <?php
 
-namespace julio101290\Auth;
+namespace Myth\Auth;
 
 /**
  * Class Password

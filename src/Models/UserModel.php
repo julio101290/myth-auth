@@ -1,12 +1,12 @@
 <?php
 
-namespace julio101920\Auth\Models;
+namespace Myth\Auth\Models;
 
 
 use CodeIgniter\Model;
 use Faker\Generator;
-use julio101920\Auth\Authorization\GroupModel;
-use julio101920\Auth\Entities\User;
+use Myth\Auth\Authorization\GroupModel;
+use Myth\Auth\Entities\User;
 
 /**
  * @method User|null first()

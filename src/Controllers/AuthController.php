@@ -1,15 +1,15 @@
 <?php
 
-namespace julio101290\Auth\Controllers;
+namespace Myth\Auth\Controllers;
 
 use CodeIgniter\Controller;
 use CodeIgniter\HTTP\CLIRequest;
 use CodeIgniter\HTTP\IncomingRequest;
 use CodeIgniter\HTTP\RedirectResponse;
 use CodeIgniter\Session\Session;
-use julio101290\Auth\Config\Auth as AuthConfig;
-use julio101290\Auth\Entities\User;
-use julio101290\Auth\Models\UserModel;
+use Myth\Auth\Config\Auth as AuthConfig;
+use Myth\Auth\Entities\User;
+use Myth\Auth\Models\UserModel;
 
 class AuthController extends Controller
 {

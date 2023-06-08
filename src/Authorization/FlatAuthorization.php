@@ -1,11 +1,11 @@
 <?php
 
-namespace julio101290\Auth\Authorization;
+namespace Myth\Auth\Authorization;
 
 use CodeIgniter\Events\Events;
 use CodeIgniter\Model;
-use julio101290\Auth\Entities\User;
-use julio101290\Auth\Models\UserModel;
+use Myth\Auth\Entities\User;
+use Myth\Auth\Models\UserModel;
 
 class FlatAuthorization implements AuthorizeInterface
 {

@@ -1,12 +1,12 @@
 <?php
 
-namespace julio101290\Auth\Filters;
+namespace Myth\Auth\Filters;
 
 use CodeIgniter\Filters\FilterInterface;
 use CodeIgniter\HTTP\RedirectResponse;
 use CodeIgniter\HTTP\RequestInterface;
 use CodeIgniter\HTTP\ResponseInterface;
-use julio101290\Auth\Exceptions\PermissionException;
+use Myth\Auth\Exceptions\PermissionException;
 
 class PermissionFilter extends BaseFilter implements FilterInterface
 {

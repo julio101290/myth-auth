@@ -1,9 +1,9 @@
 <?php
 
-namespace julio101290\Auth\Config;
+namespace Myth\Auth\Config;
 
 use CodeIgniter\Router\RouteCollection;
-use julio101290\Auth\Config\Auth as AuthConfig;
+use Myth\Auth\Config\Auth as AuthConfig;
 
 /** @var RouteCollection $routes */
 

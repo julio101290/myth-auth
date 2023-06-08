@@ -1,6 +1,6 @@
 <?php
 
-namespace julio101290\Auth\Commands;
+namespace Myth\Auth\Commands;
 
 use CodeIgniter\CLI\BaseCommand;
 use CodeIgniter\CLI\CLI;

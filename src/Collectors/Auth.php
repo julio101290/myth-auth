@@ -1,9 +1,9 @@
 <?php
 
-namespace julio101290\Auth\Collectors;
+namespace Myth\Auth\Collectors;
 
 use CodeIgniter\Debug\Toolbar\Collectors\BaseCollector;
-use Myjulio101290h\Auth\Authorization\GroupModel;
+use Myth\Auth\Authorization\GroupModel;
 
 /**
  * Debug Toolbar Collector for Auth

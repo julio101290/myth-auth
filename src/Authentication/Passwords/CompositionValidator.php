@@ -1,9 +1,9 @@
 <?php
 
-namespace julio101290\Auth\Authentication\Passwords;
+namespace Myth\Auth\Authentication\Passwords;
 
 use CodeIgniter\Entity\Entity;
-use julio101290\Auth\Exceptions\AuthException;
+use Myth\Auth\Exceptions\AuthException;
 
 /**
  * Class CompositionValidator

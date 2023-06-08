@@ -1,11 +1,11 @@
 <?php
 
-namespace julio101290\Auth\Authentication;
+namespace Myth\Auth\Authentication;
 
-use CodeIgniter\Router\Exceptions\RedirectException;
-use julio101290\Auth\Entities\User;
-use julio101290\Auth\Exceptions\AuthException;
-use julio101290\Auth\Password;
+use Myth\Router\Exceptions\RedirectException;
+use Myth\Auth\Entities\User;
+use Myth\Auth\Exceptions\AuthException;
+use Myth\Auth\Password;
 
 class LocalAuthenticator extends AuthenticationBase implements AuthenticatorInterface
 {

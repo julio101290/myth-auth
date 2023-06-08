@@ -1,6 +1,6 @@
 <?php
 
-namespace julio101920\Auth\Language\es;
+namespace Myth\Auth\Language\es;
 
 return [
     // Exceptions

@@ -1,8 +1,8 @@
 <?php
 
-namespace julio101290\Auth\Authentication\Resetters;
+namespace Myth\Auth\Authentication\Resetters;
 
-use julio101290\Auth\Entities\User;
+use Myth\Auth\Entities\User;
 
 class UserResetter extends BaseResetter implements ResetterInterface
 {

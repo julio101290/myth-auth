@@ -1,6 +1,6 @@
 <?php
 
-use julio101920\Auth\Entities\User;
+use Myth\Auth\Entities\User;
 
 if (! function_exists('logged_in')) {
     /**

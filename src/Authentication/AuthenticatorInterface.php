@@ -1,8 +1,8 @@
 <?php
 
-namespace julio101290\Auth\Authentication;
+namespace Myth\Auth\Authentication;
 
-use julio101290\Auth\Entities\User;
+use Myth\Auth\Entities\User;
 
 interface AuthenticatorInterface
 {

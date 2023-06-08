@@ -1,10 +1,10 @@
 <?php
 
-namespace julio101290\Auth\Authentication\Passwords;
+namespace Myth\Auth\Authentication\Passwords;
 
-use julio101290\Auth\Config\Auth as AuthConfig;
-use julio101290\Auth\Entities\User;
-use julio101290\Auth\Exceptions\AuthException;
+use Myth\Auth\Config\Auth as AuthConfig;
+use Myth\Auth\Entities\User;
+use Myth\Auth\Exceptions\AuthException;
 
 /**
  * A "meta-validator" for the other password validation classes.

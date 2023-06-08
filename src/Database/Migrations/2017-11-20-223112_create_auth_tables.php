@@ -1,6 +1,6 @@
 <?php
 
-namespace julio101290\Auth\Database\Migrations;
+namespace Myth\Auth\Database\Migrations;
 
 use CodeIgniter\Database\Migration;
 

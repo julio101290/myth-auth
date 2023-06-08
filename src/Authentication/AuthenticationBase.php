@@ -1,15 +1,15 @@
 <?php
 
-namespace julio101290\Auth\Authentication;
+namespace Myth\Auth\Authentication;
 
 use CodeIgniter\Events\Events;
 use CodeIgniter\Model;
 use Exception;
-use julio101290\Auth\Config\Auth as AuthConfig;
-use julio101290\Auth\Entities\User;
-use julio101290\Auth\Exceptions\AuthException;
-use julio101290\Auth\Exceptions\UserNotFoundException;
-use julio101290\Auth\Models\LoginModel;
+use Myth\Auth\Config\Auth as AuthConfig;
+use Myth\Auth\Entities\User;
+use Myth\Auth\Exceptions\AuthException;
+use Myth\Auth\Exceptions\UserNotFoundException;
+use Myth\Auth\Models\LoginModel;
 
 class AuthenticationBase
 {

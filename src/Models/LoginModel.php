@@ -1,6 +1,6 @@
 <?php
 
-namespace julio101920\Auth\Models;
+namespace Myth\Auth\Models;
 
 use CodeIgniter\Model;
 use DateTime;

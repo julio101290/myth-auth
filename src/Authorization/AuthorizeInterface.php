@@ -1,6 +1,6 @@
 <?php
 
-namespace  julio101290\Auth\Authorization;
+namespace  Myth\Auth\Authorization;
 
 interface AuthorizeInterface
 {

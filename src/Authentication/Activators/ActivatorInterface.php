@@ -1,8 +1,8 @@
 <?php
 
-namespace julio101290\Auth\Authentication\Activators;
+namespace Myth\Auth\Authentication\Activators;
 
-use julio101290\Auth\Entities\User;
+use Myth\Auth\Entities\User;
 
 /**
  * Interface ActivatorInterface

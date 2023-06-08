@@ -1,8 +1,8 @@
 <?php
 
-namespace julio101290\Auth\Authorization;
+namespace Myth\Auth\Authorization;
 
-use julio101290\Auth\Models\PermissionModel as BaseModel;
+use Myth\Auth\Models\PermissionModel as BaseModel;
 
 /**
  * @deprecated 1.2.0 Use Myth\Auth\Models\PermissionModel instead

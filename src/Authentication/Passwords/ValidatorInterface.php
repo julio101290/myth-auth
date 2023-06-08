@@ -1,6 +1,6 @@
 <?php
 
-namespace julio101290\Auth\Authentication\Passwords;
+namespace Myth\Auth\Authentication\Passwords;
 
 use CodeIgniter\Entity;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace julio101290\Auth\Exceptions;
+namespace Myth\Auth\Exceptions;
 
 use RuntimeException;
 

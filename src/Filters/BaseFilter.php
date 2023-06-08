@@ -1,8 +1,8 @@
 <?php
 
-namespace julio101920\Auth\Filters;
+namespace Myth\Auth\Filters;
 
-use julio101290\Auth\Config\Auth as AuthConfig;
+use Myth\Auth\Config\Auth as AuthConfig;
 
 abstract class BaseFilter
 {

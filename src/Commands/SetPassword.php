@@ -1,10 +1,10 @@
 <?php
 
-namespace julio101290\Auth\Commands;
+namespace Myth\Auth\Commands;
 
 use CodeIgniter\CLI\BaseCommand;
 use CodeIgniter\CLI\CLI;
-use julio101290\Auth\Models\UserModel;
+use Myth\Auth\Models\UserModel;
 
 class SetPassword extends BaseCommand
 {
